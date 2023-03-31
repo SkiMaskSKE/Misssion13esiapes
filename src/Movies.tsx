@@ -13,7 +13,7 @@ function MovieList() {
       </div>
 
       <div>
-        <table className="table table-bordered">
+        <table className="table table-success table-bordered">
           <thead>
             <tr className="table-dark bold">
               <th>Title</th>
