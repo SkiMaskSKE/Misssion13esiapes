@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import TopBanner from './Pages/Home';
-import MovieList from './Movies';
+import MovieList from './types/Movies';
 import MyPodcast from './Pages/MyPodcast';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Navigation/Navigation.js';
